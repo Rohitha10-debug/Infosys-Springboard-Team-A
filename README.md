@@ -53,8 +53,14 @@ The following outputs demonstrate successful completion of Milestone 1:
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 `Python` · `Flask` · `HTML` · `CSS` · `GitHub`
+
+**Libraries:** `pdfplumber`, `python-docx`
+
+
+
+
 
 ---
 
